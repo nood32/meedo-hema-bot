@@ -41,8 +41,7 @@
     
 
     devlopers 
-
-    by :- @meedo1133 & @hema1133 
+    1-@meedo1133 & 2-@hema1133 
     معرف القناه @meedoyemen
 
     thanks for useing our files 
