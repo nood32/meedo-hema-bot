@@ -1,49 +1,49 @@
 # MEEDOBOT
 
 
-    :trident:- طريقه تنصيب سورس MEEDOBOT العربي -:trident:
+     طريقه تنصيب سورس MEEDOBOT العربي 
 
-    :small_red_triangle:- افتح ترمنال جديد وخلي:wrench::point_down:
+    افتح ترمنال جديد وخلي
 
     sudo apt-get update
 
-    :small_red_triangle:- عوفه مفتوح وفتح ترمنال لاخ وخلي :point_down:
+    عوفه مفتوح وفتح ترمنال لاخ وخلي 
 
     sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-    :small_red_triangle:- وراهه :point_down:
+    وراهه
 
     git clone https://github.com/nood32/MEEDOBOT.git
 
-    :small_red_triangle:- وراهه:point_down:
+     وراهه:
 
     cd MEEDOBOT
 
-    :small_red_triangle:- وراهه:point_down:
+    وراهه
 
     chmod +x launch.sh
 
-    :small_red_triangle:- وراهه:point_down:
+    وراهه
 
     ./launch.sh install
 
-    :small_red_triangle:- وراهه:point_down:
+    وراهه
 
     ./launch.sh
 
-    :small_red_triangle:- بعدها يطلب رقم ودخل ررقم ومبروك عليك البوت :revolving_hearts::leaves:
+     بعدها يطلب رقم ودخل ررقم ومبروك عليك البوت 
 
-    :small_red_triangle:- بعدها افتح ترمنال جديد واكتب :point_down:
+     بعدها افتح ترمنال جديد واكتب :
 
     redis-server
     launch.sh وبعدها روح لملف وسوي run 
 
     
 
-    :small_red_triangle:-----------------------------:small_red_triangle:
+    devlopers 
 
     by :- @meedo1133 & @hema1133 
     معرف القناه @meedoyemen
 
-    :small_red_triangle:-----------------------------:small_red_triangle:
+    thanks for useing our files 
 
